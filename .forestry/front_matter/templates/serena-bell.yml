@@ -1,4 +1,17 @@
 ---
 label: Serena Bell
 hide_body: false
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+  description: Add an image.
+  hidden: false
+- name: text
+  type: text
+  config:
+    required: false
+  label: Text
+  description: Add text here.
