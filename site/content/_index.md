@@ -1,7 +1,7 @@
 ---
-title: Killer coffee with a conscience
-subtitle: Support aardvarks while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Serena Bell
+subtitle: USA Today Bestselling Author
+image: /img/untitled-design-2-.png
 blurb:
   heading: Why Kaldi?
   text: >-
